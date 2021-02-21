@@ -2,8 +2,14 @@
 
 ## Prerequisites:
 
-### Requires Package "Requests"
-`pip install requests` : see help at [Request Package]( https://requests.readthedocs.io/en/master/user/install/)
+### Installation
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install request.
+
+```bash
+pip install requests
+```
+`pip install requests` 
+ [Requests Usage](https://requests.readthedocs.io/en/latest/user/advanced/)
 
  
 ### Create an API Key
