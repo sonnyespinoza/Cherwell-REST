@@ -19,5 +19,6 @@ Client IDs are created in CSM Administrator : [Obtaining an API Key](https://hel
 
 
 #### Create Security Group
-![image](https://user-images.githubusercontent.com/20115785/108640179-675b2200-7455-11eb-924d-94228cb1ba8d.png)
+Create a security group that has permissions for using web service and webhooks
+![image](https://user-images.githubusercontent.com/20115785/108640262-d769a800-7455-11eb-9f5d-66d53bed6b4b.png)
 
