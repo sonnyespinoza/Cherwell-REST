@@ -1,4 +1,4 @@
-# Cherwell-CSM-REST
+# Cherwell-CSM-REST-Python
 
 ## Prerequisites:
 
