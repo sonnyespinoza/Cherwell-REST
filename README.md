@@ -8,7 +8,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install request
 ```bash
 pip install requests
 ```
-`pip install requests` 
 
  [Requests Usage](https://requests.readthedocs.io/en/latest/user/advanced/)
 
