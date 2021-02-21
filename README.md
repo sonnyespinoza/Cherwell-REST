@@ -1,12 +1,10 @@
-# Cherwell-REST
+# Cherwell-CSM-REST
 
 ## Requires package requests
-`pip install requests` : see help at https://requests.readthedocs.io/en/master/user/install/
+`pip install requests` : see help at [Request Package]( https://requests.readthedocs.io/en/master/user/install/)
 
-
+ 
 ## Create an API Key
-In CAM Administrator, select Tools > User Policies and Authentication > REST API Keys.
-In the Manage REST API Keys dialog box, select New.
-Provide a name and description for the key.
-Select the Enabled check box to activate the key. ...
-A key is generated automatically.
+Client IDs are created in CSM Administrator : see help at 
+
+This site was built using [GitHub Pages](https://pages.github.com/)
