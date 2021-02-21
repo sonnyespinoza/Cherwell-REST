@@ -21,4 +21,4 @@ Client IDs are created in CSM Administrator : [Obtaining an API Key](https://hel
 
 https://github.com/sonnyespinoza/img/blob/main/CSM_Create_SecGrp.jpg
 
-sonnyespinoza.github.com/img/CSM_Create_SecGrp.jpg
+http://sonnyespinoza.github.com/img/CSM_Create_SecGrp.jpg
